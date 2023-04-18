@@ -29,5 +29,5 @@
 
 ### Мои контакты 
  
-Почта: korchinmv@yandex.ru 📮 <br/> 
+Почта: korchinmv@yandex.ru 📮<br/> 
 VK: https://vk.com/korchinmv 
