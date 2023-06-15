@@ -8,10 +8,11 @@
 - смотреть фильмы 🎥
 
 ### Мой технический стек:
-###frontend
+### frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -20,7 +21,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js)
 ![БЭМ](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=bem)
 
-###backend
+### backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
@@ -28,15 +29,18 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx)
 ![PM2](https://img.shields.io/badge/-PM2-090909?style=for-the-badge&logo=PM2)
 
-###Сборщики и инструменты
+### Сборщики и инструменты
 
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind)
+![Material UI](https://img.shields.io/badge/-materialui-090909?style=for-the-badge&logo=materialui)
 
 <br/>
 <br/>
