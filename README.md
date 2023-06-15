@@ -45,6 +45,8 @@
 <br/>
 <br/>
 
+[![codewars](https://www.codewars.com/users/skitterjs/badges/large)](https://www.codewars.com/users/skitterjs)  
+
 ### Мои контакты 
  
 Почта: korchinmv@yandex.ru 📮<br/> 
