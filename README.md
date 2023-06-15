@@ -8,7 +8,7 @@
 - люблю слушать музыку 🎵
 - смотреть фильмы 🎥
 
-### Мой технический стек:
+### Технический стек:
 ### frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
@@ -46,10 +46,10 @@
 <br/>
 <br/>
 
-### Мой lvl на CodeWars
+### LVL CodeWars
 [![codewars](https://www.codewars.com/users/skitterjs/badges/large)](https://www.codewars.com/users/skitterjs)  
 
-### Мои контакты 
+### Контакты 
  
 Почта: korchinmv@yandex.ru 📮<br/> 
 VK: https://vk.com/korchinmv 
