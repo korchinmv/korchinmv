@@ -44,7 +44,6 @@
 ![Material_UI](https://img.shields.io/badge/-materialui-090909?style=for-the-badge&logo=materialui)
 
 <br/>
-<br/>
 
 ### LVL CodeWars
 [![codewars](https://www.codewars.com/users/skitterjs/badges/large)](https://www.codewars.com/users/skitterjs)  
