@@ -1,26 +1,26 @@
 # Привет, меня зовут Максим 👋
 
-## Я начинающий front-end разработчик
+## Я frontend разработчик
 
 ## Немного обо мне
-- 32 года 🔞
+- мне 32 года и вэб-разработка для меня выросла из хобби в нечто большее 
 - люблю слушать музыку 🎵
 - смотреть фильмы 🎥
 
-### Мой технический стек
-
-<img align="left" alt="html" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="mongodb" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img align="left" alt="express" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/> 
-<img align="left" alt="react" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /
-<img align="left" alt="nodejs" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img align="left" alt="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
-<img align="left" alt="gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
-<img align="left" alt="webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
-<img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+### Мой технический стек:
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx)
+![PM2](https://img.shields.io/badge/-PM2-090909?style=for-the-badge&logo=PM2)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 
 
 <br/>
