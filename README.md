@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![React-router](https://img.shields.io/badge/-React_Router-090909?style=for-the-badge&logo=react-router)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js)
+![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js)
 ![БЭМ](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=bem)
 
 ### backend
