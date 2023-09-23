@@ -41,7 +41,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind)
+![Tailwind](https://img.shields.io/badge/-tailwindcss-090909?style=for-the-badge&logo=tailwindcss)
 ![Material_UI](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
 
 <br/>
