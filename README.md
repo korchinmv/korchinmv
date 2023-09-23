@@ -42,7 +42,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind)
-![Material_UI](https://img.shields.io/badge/-materialui-090909?style=for-the-badge&logo=materialui)
+![Material_UI](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
 
 <br/>
 
