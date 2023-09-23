@@ -21,7 +21,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js)
 ![БЭМ](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=bem)
-![AXIOS](https://img.shields.io/badge/-bem-090909?style=for-the-badge&logo=axios)
+![axios](https://img.shields.io/badge/-axios-090909?style=for-the-badge&logo=axios)
 
 ### backend
 
